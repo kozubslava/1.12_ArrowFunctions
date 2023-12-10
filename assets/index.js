@@ -33,7 +33,7 @@ const arr = [10, 5, 8, 20, 3];
 
 const maxValue = Math.max(...arr);
 
-console.log(`maxValue from ${arr} - `, maxValue);
+console.log(`max Value from ${arr} - `, maxValue);
 
 // Створити функцію просунутого калькулятора. Функція приймає спочатку знак, а потім необмежену кількість чисел, над якими буде виконана вказана операція.
 
